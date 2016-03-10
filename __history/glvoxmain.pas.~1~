@@ -400,7 +400,6 @@ var
   x,y,z:integer;
 begin
   //тут должен осушествляться выбор по типу кисти
-  //вставил новую строчку -- это коммент
   if rdBrushOneVox.Checked=true then
   begin
     v:=spBrushRed.Value;
@@ -408,8 +407,7 @@ begin
   end;
   if rdBrushQuad.Checked=true then
   begin
-    //поменял spBrushRed на spBrushBlue
-    v:=spBrushBlue.Value;
+    v:=spBrushRed.Value;
     for x := curbrush.CX to curbrush.CX+curbrush.SX do begin
       for y := curbrush.CY to curbrush.CY+curbrush.SY do begin
         for z := curbrush.CZ to curbrush.CZ+curbrush.SZ do begin

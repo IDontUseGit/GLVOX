@@ -408,7 +408,6 @@ begin
   end;
   if rdBrushQuad.Checked=true then
   begin
-    //поменял spBrushRed на spBrushBlue
     v:=spBrushBlue.Value;
     for x := curbrush.CX to curbrush.CX+curbrush.SX do begin
       for y := curbrush.CY to curbrush.CY+curbrush.SY do begin
