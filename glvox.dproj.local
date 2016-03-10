@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.883,=F:\Учёба!!1\Аспирантура\Проект\GLVOX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,=F:\Учёба!!1\Аспирантура\Проект\GLVOX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,C:\Users\Win7\Documents\RAD Studio\Projects\Unit1.dfm=F:\Учёба!!1\Аспирантура\Проект\GLVOX\glvoxmain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,F:\Учёба!!1\Аспирантура\Проект\GLVOX\World3D.pas=F:\Учёба!!1\Аспирантура\Проект\GLVOX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,=C:\Users\Win7\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,F:\Учёба!!1\Аспирантура\Проект\GLVOX\Core.pas=F:\Учёба!!1\Аспирантура\Проект\GLVOX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\Win7\Documents\RAD Studio\Projects\Project1.dproj=F:\Учёба!!1\Аспирантура\Проект\GLVOX\glvox.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,C:\Users\Win7\Documents\RAD Studio\Projects\Unit1.pas=F:\Учёба!!1\Аспирантура\Проект\GLVOX\glvoxmain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
