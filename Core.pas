@@ -15,6 +15,8 @@ type
   {«начени€ TVoxel начинаютс€ с 1, 0 считаетс€ пустым вокселем}
   TVoxel=byte;
 
+  TLongVoxel=long;
+
   TVoxPtr=record
     x: integer;
     y: integer;
